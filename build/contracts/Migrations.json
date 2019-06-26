@@ -1377,12 +1377,12 @@
     "1561540235338": {
       "events": {},
       "links": {},
-      "address": "0xE655CCEcE18c73Afa7E2138867A86ae480Ad258c",
-      "transactionHash": "0x9d79d1955ee78fe82cb36463f3d7fbc85775ae132b3e5f48db222537dbf55d3b"
+      "address": "0x528aC41AEdE6261d77bcBe3555c254add890f3B6",
+      "transactionHash": "0xb49ff925867d7e99ef99dc6b55fa7fb32f831601dfce6bcb1476f5c4cc44cc39"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-06-26T11:51:33.477Z",
+  "updatedAt": "2019-06-26T13:01:30.369Z",
   "devdoc": {
     "methods": {}
   },

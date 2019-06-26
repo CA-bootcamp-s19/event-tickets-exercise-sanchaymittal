@@ -7680,12 +7680,12 @@
     "1561540235338": {
       "events": {},
       "links": {},
-      "address": "0x62cD1b0015938de2291DC9Ee81Bf008D0c730c50",
-      "transactionHash": "0x6a8a4afb59c6ab62bb3431f0ccd7657b5bb44af7b93420aa6d496903549c6657"
+      "address": "0xEE1167D4cdA27abc9acd6D5DB1eBE4886672dFEd",
+      "transactionHash": "0xbe92da0378370f8f011e9c30a7d8dc0eb75120232078a3fbefc658efc9a56123"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-06-26T11:51:33.449Z",
+  "updatedAt": "2019-06-26T13:01:30.340Z",
   "devdoc": {
     "author": "Sanchay Mittal",
     "methods": {},
